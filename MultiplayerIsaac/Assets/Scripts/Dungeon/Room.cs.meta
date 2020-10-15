@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 94f5e55d533569249a69ed3b0bb9a5f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dungeonManager: {fileID: 6153656143116394683, guid: f119aa49a58eefb42b85185cff844ec1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
